@@ -1,6 +1,0 @@
-gdown
-numpy
-tensorflow
-scikit-learn
-matplotlib
-tensorflowjs
